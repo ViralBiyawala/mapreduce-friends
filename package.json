@@ -1,0 +1,24 @@
+{
+  "name": "mapreduce-friends",
+  "version": "1.0.0",
+  "description": "This project demonstrates how to apply a map-reduce style approach to process friendship data, returning the common friends for each user pair.",
+  "main": "mapreduce.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViralBiyawala/mapreduce-friends.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ViralBiyawala/mapreduce-friends/issues"
+  },
+  "homepage": "https://github.com/ViralBiyawala/mapreduce-friends#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
